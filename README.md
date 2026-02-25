@@ -22,8 +22,8 @@ This dashboard answers key stakeholder questions across:
 
 The dashboard gathers data from two primary sources:
 
--Excel/CSV Files
--MySQL Database
+- Excel/CSV Files
+- MySQL Database
 
 The data is stored in SQL databases and connected directly to Power BI for reporting.
 The project uses two databases provided in the Bootcamp: gdb041 and gdb056.
