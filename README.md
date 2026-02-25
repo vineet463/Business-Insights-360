@@ -55,7 +55,7 @@ Used for version control, project documentation, and portfolio showcasing.
 ## Dashboard
 
 - Home View: Navigate seamlessly with a central landing page
-
+https://github.com/vineet463/Business-Insights-360/blob/main/Home.png
 ### Features and Highlights
 
 #### Business Problem
