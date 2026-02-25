@@ -65,7 +65,7 @@ Used for quick validations, data checks, and exploratory data analysis.
 
 
  ##### Sales View
-- Explore customer and product performance with Net Sales, Gross Margin %
+- Explore customer  performance with Net Sales, Gross Margin %
 - Explore Net sales performance over time using scatter plot 
   
 <img width="1272" height="775" alt="Sales View" src="https://github.com/user-attachments/assets/2501d8d2-6c15-43c8-9ec4-bcbe42f19693" />
