@@ -67,8 +67,9 @@ Used for quick validations, data checks, and exploratory data analysis.
  ##### Sales View
 - Explore customer  performance with Net Sales, Gross Margin %
 - Explore Net sales performance over time using scatter plot 
-  
-<img width="1272" height="775" alt="Sales View" src="https://github.com/user-attachments/assets/2501d8d2-6c15-43c8-9ec4-bcbe42f19693" />
+  <img width="1203" height="683" alt="Sales View" src="https://github.com/user-attachments/assets/400bdead-a4cf-4b51-b1f0-4a23acaec7cb" />
+
+
 
  ##### Marketing View 
 - Gain insights by market, region, product, and customer, tracking GM% and NP% across segments
