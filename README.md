@@ -49,6 +49,8 @@ Used as primary data source for storing transactional and master data.
 - Excel
 Used for quick validations, data checks, and exploratory data analysis.
 
+
+Live Dashboard Link-  https://app.powerbi.com/view?r=eyJrIjoiN2NkYWE2ZjMtOWMzNi00ZjNjLTliODEtNzFhYTY2NGY3OWUyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 ## Dashboard
 
  ##### Home View
