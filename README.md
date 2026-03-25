@@ -1,5 +1,9 @@
 # Business Insights 360
 
+### Vedio Presentation Link
+https://www.linkedin.com/posts/vineet-dubey-5880831ba_powerbi-dataanalysis-businessintelligence-activity-7433940975749742592-lHyL?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLpf3gBrSFNT8XY7cxW2dj17W9u9oB-M1s
+
+
 ### Project Overview
 
 A comprehensive Power BI Dashboard built using SQL and Power BI to provide a overall view of financial, sales, marketing, supply chain, and executive performance.
